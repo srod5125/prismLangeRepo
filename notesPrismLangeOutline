@@ -1,0 +1,23 @@
+
+
+fieldName {
+    set : set ntoation
+}
+# each field is disjoint
+
+ex: 
+Arrow {
+    position : position
+    dir : 
+}
+
+
+functions have attributes which declare whether or not a value will be modifiied by it after passing
+
+function DoSomething(willModify X, pass Y)
+
+triggers or events will be first class function declarations
+
+
+
+
